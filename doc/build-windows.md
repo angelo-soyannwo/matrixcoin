@@ -91,3 +91,8 @@ way. This will install to `c:\workspace\bitcoin`, for example:
 You can also create an installer using:
 
     make deploy
+    
+Moving .exe file from WSL to Windows:
+    run ".explorer ." to open file explorer in current directory
+    copy .exe file
+    paste into windows directory of your choice
